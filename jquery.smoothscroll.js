@@ -1,6 +1,6 @@
 /*!
  * smoothScroll - jQuery Plugin
- * version: 1.0 (Fri, 13 Dec 2013)
+ * version: 1.0 (Fri, 1 Aug 2014)
  *
  * License: GNU GPL v2
  * Copyright 2013 Nico Niebergall - nico@nightowl.me
@@ -15,7 +15,7 @@
 			offset: 0,
 			before: function() {},
 			after: function() {},
-			toTop: null,
+			toTop: null
 		}, options);
 
 		return this.each(function() {
